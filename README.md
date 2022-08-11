@@ -8,3 +8,4 @@ An assignment given in the CCS531-Mobile Application Development module to creat
 <b>Futher Information</b><br>
 The problem and the proposed solution in detail : [AA1872- CarDock presentation.pptx](https://github.com/minoli-ford/CarDock/files/9307672/AA1872-.CarDock.presentation.pptx)
 
+<i>All Code Files can taken from CarDock.zip</i>
