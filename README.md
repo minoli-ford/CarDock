@@ -1,10 +1,8 @@
 # CarDock
-An assignment given in the CCS531-Mobile Application Development module.
+An assignment given in the CCS531-Mobile Application Development module to create a Login and Registration Screens for Cars.
+Tools used: Android Studio, Java
 
-Login Screen
 ![Login Screen](https://user-images.githubusercontent.com/110992200/184106397-94d8d29b-3f4f-4041-b42e-4ad2dc416d5a.png)
-
-Registration Screen
 ![Car Registration Screen](https://user-images.githubusercontent.com/110992200/184106433-5a7441b6-5c81-4987-99c4-35f88d750692.png)
 
 <b>Futher Information</b><br>
